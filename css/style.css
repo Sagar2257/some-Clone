@@ -1,0 +1,75 @@
+.outer
+{
+    height:auto;
+    width:1300px;
+    border:1px solid black;
+}
+.nav1 ul li
+{
+    list-style-type:none;
+}
+.sec
+{
+height:300px;
+background-image:url('../images/lab1.jpg');
+background-repeat:no-repeat;
+background-size:cover;
+color:white;
+background-attachment:fixed;
+
+}
+.sec-inner
+{
+    background-color:rgba(0, 174, 255, 0.5);
+
+}
+.acc
+{
+    height:50px;
+    width:400px;
+    border:1px solid black;
+    border-radius:50px;
+    background-color: rgb(47, 47, 243);
+}
+.sec3
+{
+    height:500px;
+background-image:url('../images/5.jpg');
+background-repeat:no-repeat;
+background-size:cover;
+color:white;
+background-attachment:fixed;
+}
+.sec-inner1
+{
+    background-color:rgba(0, 255, 179, 0.5);
+
+}
+.img
+{
+    height: 100px;
+    width:100px;
+}
+.sec5
+{
+    height:100px;
+    width:1300px;
+    background-color: rgba(204, 210, 215, 0.682);
+}
+.footer
+{
+    height: 500px;
+    width:1300px;
+    background-color: black;
+    color: white;
+}
+ul li a
+{
+    color:white;
+    text-decoration: none;
+}
+.f input
+{
+    border:none;
+	border-bottom: 2px solid white;
+}

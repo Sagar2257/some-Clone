@@ -1,0 +1,18 @@
+html=
+hyper text markup lanhuage
+
+	  
+	  <html>
+	  <head>
+	  <title></title>
+	  <style></style>
+	  <script></script>
+	  <link/>
+	  <meta/>
+	  <base></base>
+	  <comaand></comaand>
+	  </head>
+	  <body>
+	  </body>
+	  </html>
+	  
